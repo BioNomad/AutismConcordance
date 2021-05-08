@@ -2,7 +2,7 @@
 
 > Here we provide the repository for the data analysis performed by in our work "Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets" <sup>1</sup>. In this analysis we take publically available blood transcriptomic datasets and attempt to establish concordance between them. Historically this has been a difficult task given the heterogeneity of the disease. We leverage personalized pertubation profiles to establish concordance <sup>1</sup>:
 
-![asd_fig1](https://user-images.githubusercontent.com/59677194/117555115-6edca100-b02a-11eb-8d3a-bc8c413863e4.png)
+![asd_fig1](https://user-images.githubusercontent.com/59677194/117555115-6edca100-b02a-11eb-8d3a-bc8c413863e4.png = 250x250)
 
 > Here a gene is considered perturbed in a study if its expression value z-score is greater than 2.5 or less than -2.5. This gene then gets added to each study's "list" of perturbed genes. We then compare these lists and found a common set of perturbed genes. Moreover, we found that this common pool of perturbed genes contains the following poorly characterized genes: C18orf25, C15orf39, C1orf109, C1orf43, C19orf12, C6orf106, C3orf58, C19orf53, C17orf80, C4orf33, C21orf2, C10orf2, C1orf162, C10orf25 and C10orf90 <sup>1</sup>. We then use differential correlation analysis to identify how these genes might be relevant to autism molecular mechanisms <sup>1</sup>:
 
