@@ -1,6 +1,6 @@
 # AutismConcordance
 
-> Here we provide the repository for the data analysis performed by in our work "Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets" <sup>1</sup>. In this analysis we take publically available blood transcriptomic datasets and attempt to establish concordance between them. Historically this has been a difficult task given the heterogeneity of the disease. We leverage personalized pertubation profiles to establish concordance <sup>1</sup>:
+> Here we provide the repository for the data analysis performed in our work "Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets" <sup>1</sup>. In this analysis we take publically available blood transcriptomic datasets and attempt to establish concordance between them. Historically this has been a difficult task given the heterogeneity of the disease. We leverage personalized pertubation profiles to establish concordance <sup>1</sup>:
 <p align="center">
     <img src="https://user-images.githubusercontent.com/59677194/117555115-6edca100-b02a-11eb-8d3a-bc8c413863e4.png" width="500" height="650" />
 </p>
