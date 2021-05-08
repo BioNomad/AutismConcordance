@@ -10,6 +10,7 @@
 </p>
 To confirm these correlations we identify those seen in TCGA Low Grade Glioma data. These correlations were explored with the text mining tool Chilibot to reveal interesting connections to DNA damage, ubiquitination, R-loops, autophagy, and mitochondrial damage <sup>1</sup>. 
 
-References
 
-1. Laird, J. & Maertens, A. Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets. bioRxiv 2021.01.25.427953 (2021) doi:10.1101/2021.01.25.427953.
+# References
+
+> 1. Laird, J. & Maertens, A. Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets. bioRxiv 2021.01.25.427953 (2021) doi:10.1101/2021.01.25.427953.
