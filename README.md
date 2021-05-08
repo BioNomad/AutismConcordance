@@ -12,4 +12,4 @@ To confirm these correlations we identify those seen in TCGA Low Grade Glioma da
 
 References
 
-    1. Laird, J. & Maertens, A. Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets. bioRxiv 2021.01.25.427953 (2021) doi:10.1101/2021.01.25.427953.
+1. Laird, J. & Maertens, A. Personalized Perturbation Profiles Reveal Concordance between Autism Blood Transcriptome Datasets. bioRxiv 2021.01.25.427953 (2021) doi:10.1101/2021.01.25.427953.
